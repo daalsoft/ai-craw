@@ -1,0 +1,36 @@
+{
+  "name": "ai-craw",
+  "version": "0.1.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint"
+  },
+  "dependencies": {
+    "@google/genai": "^1.42.0",
+    "next": "16.1.6",
+    "nodemailer": "^8.0.1",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "selenium-webdriver": "^4.40.0",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20.19.33",
+    "@types/nodemailer": "^7.0.10",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "@types/selenium-webdriver": "^4.35.5",
+    "chromedriver": "^145.0.3",
+    "eslint": "^9",
+    "eslint-config-next": "16.1.6",
+    "tailwindcss": "^4",
+    "ts-node": "^10.9.2",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
+  }
+}

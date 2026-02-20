@@ -1,0 +1,102 @@
+[
+  {
+    "site": "naver",
+    "job_title": "[NAVER] AI 검색 기술 연구 및 개발 체험형 인턴",
+    "team_introduction": "AI 기술에 기반하여 검색을 개선하는 기술 및 서비스 개발을 담당합니다. AI 기술들을 토대로 네이버검색의 경쟁력을 높이고 있습니다.\n네이버의 주요 UGC (블로그, 카페, 지식인 등) 및 Knowledge 데이터, 수집된 웹, 동영상, 이미지들을 대상으로 사용자가 검색한 의도에 부합하는 높은 신뢰도의 적합한 검색 결과를 제공하기 위한 기술, 시스템의 개발 및 연구를 담당합니다.\nAI 에이전트 등 사용자에 직접 정보를 전달하기 위한 AI 기술뿐 아니라, 기존 검색의 개선, 검색 관련 개발 생산성 향상 등 다양한 기술 과제에 도전합니다.",
+    "job_duties": "검색과 AI 관련해서 학계에서 연구 중인 최신 기술을 실제 환경에서 실험하고 개선해 볼 연구 기회를 얻을 수 있습니다.\n- 대규모 색인 환경에서의 Reasoning based Search 혹은 Agentic RAG 기술의 활용 및 개선\n- 실환경에서 다양한 LLM 기반한 문서 랭킹 기술 연구, 실험\n- Text2GQL, Fact Validation 등 Knowledge Graph 관련 최근 LLM 기반 방법\nRequired Skills\n• 숙련된 Python 사용이 가능하신 분 (JAVA 등 타언어로 대체 가능)\n• 기본적인 IR, NLP 기술에 대한 이해도 및 활용 경험 보유하신 분\n• IR, RAG, KG, LLM 관련 기술에 대한 충분한 배경 지식을 지니고 있으며, 최근 논문들에 대해 이해 및 실제 활용이 가능하신 분\n• 검색 서비스 개발 프로세스에 흥미가 있으신 분\nPreferred Skills\n• Milvus 등 검색 관련 플랫폼의 활용 경험 있으신 분\n• Lang chain, adk, llamaindex, defy, n8n 등, AI-Agent 혹은 Agentic RAG 개발 관련 오픈 소스 플랫폼에 익숙하신 분\n• 최근 IR, RAG, KG 관련 연구 경험 혹은 논문 실적이 있는 분",
+    "qualifications": "What You'll Do\n검색과 AI 관련해서 학계에서 연구 중인 최신 기술을 실제 환경에서 실험하고 개선해 볼 연구 기회를 얻을 수 있습니다.\n- 대규모 색인 환경에서의 Reasoning based Search 혹은 Agentic RAG 기술의 활용 및 개선\n- 실환경에서 다양한 LLM 기반한 문서 랭킹 기술 연구, 실험\n- Text2GQL, Fact Validation 등 Knowledge Graph 관련 최근 LLM 기반 방법\nRequired Skills\n• 숙련된 Python 사용이 가능하신 분 (JAVA 등 타언어로 대체 가능)\n• 기본적인 IR, NLP 기술에 대한 이해도 및 활용 경험 보유하신 분\n• IR, RAG, KG, LLM 관련 기술에 대한 충분한 배경 지식을 지니고 있으며, 최근 논문들에 대해 이해 및 실제 활용이 가능하신 분\n• 검색 서비스 개발 프로세스에 흥미가 있으신 분\nPreferred Skills\n• Milvus 등 검색 관련 플랫폼의 활용 경험 있으신 분\n• Lang chain, adk, llamaindex, defy, n8n 등, AI-Agent 혹은 Agentic RAG 개발 관련 오픈 소스 플랫폼에 익숙하신 분\n• 최근 IR, RAG, KG 관련 연구 경험 혹은 논문 실적이 있는 분",
+    "preferred_qualifications": "What You'll Do\n검색과 AI 관련해서 학계에서 연구 중인 최신 기술을 실제 환경에서 실험하고 개선해 볼 연구 기회를 얻을 수 있습니다.\n- 대규모 색인 환경에서의 Reasoning based Search 혹은 Agentic RAG 기술의 활용 및 개선\n- 실환경에서 다양한 LLM 기반한 문서 랭킹 기술 연구, 실험\n- Text2GQL, Fact Validation 등 Knowledge Graph 관련 최근 LLM 기반 방법\nRequired Skills\n• 숙련된 Python 사용이 가능하신 분 (JAVA 등 타언어로 대체 가능)\n• 기본적인 IR, NLP 기술에 대한 이해도 및 활용 경험 보유하신 분\n• IR, RAG, KG, LLM 관련 기술에 대한 충분한 배경 지식을 지니고 있으며, 최근 논문들에 대해 이해 및 실제 활용이 가능하신 분\n• 검색 서비스 개발 프로세스에 흥미가 있으신 분\nPreferred Skills\n• Milvus 등 검색 관련 플랫폼의 활용 경험 있으신 분\n• Lang chain, adk, llamaindex, defy, n8n 등, AI-Agent 혹은 Agentic RAG 개발 관련 오픈 소스 플랫폼에 익숙하신 분\n• 최근 IR, RAG, KG 관련 연구 경험 혹은 논문 실적이 있는 분",
+    "application_link": "https://recruit.navercorp.com/rcrt/view.do?annoId=30004588",
+    "crawling_datetime": "2026-02-19T14:11:30.979Z"
+  },
+  {
+    "site": "naver",
+    "job_title": "[NAVER] 플레이스 사업 서비스 기획 및 사업/제휴 담당 (경력)",
+    "team_introduction": "스마트플레이스는 네이버의 대표적인 로컬 사업자 플랫폼으로서 업체정보관리, 네이버 예약, 네이버 주문, 플레이스 쿠폰 등 다양한 사업자 솔루션을 제공하는 플랫폼입니다. 스마트플레이스 플랫폼을 중심으로 플레이스 서비스, 네이버 검색, 지도 서비스 등과의 연계를 통해 로컬 관련 이용자의 주요 니즈를 충족시키고 이용자와 사업자와의 연결을 통해 로컬 사업자의 사업적 성공을 위한 다양한 방안을 끊임없이 고민합니다.\nWhat You'll Do\n· 스마트플레이스 사업자 플랫폼 기획, 운영\n· 네이버 예약, 네이버 주문 등 주요 서비스/솔루션 기획, 운영\n· 사업자향 CRM 솔루션 기획, 운영\n· 사업자향 AI 솔루션 기획, 운영\n· 다양한 외부 파트너와 협력을 통해 사업자향의 새로운 기능, 솔루션 제공\n· 내, 외부 다양한 데이터를 토대로 통계 및 관련 서비스 기획, 운영\nRequired Skill\n· 인터넷 서비스 및 사업자 플랫폼, 예약, 주문 등 로컬 사업자 대상의 서비스 기획 경험을 5년 이상 보유하신 분\n· 로컬 사업 및 서비스에 대한 관심이 높고 향후 해당 분야에 비전을 갖고 계신 분\n· 개발, 설계 등 유관 부서와의 협업이 원활하고 책임감 있게 프로젝트를 진행하실 수 있는 분\nPreferred Skill\n· 사업자 플랫폼, 예약, 주문 플랫폼 기획, 운영 경험을 보유하신 분\n· CRM, 마케팅, 고객 관리 서비스, AI 솔루션 기획, 운영 경험을 보유하신 분\n· 다양한 외부 파트너와의 협업을 통해 새로운 서비스 제공 경험을 보유하신 분\n· 데이터 분석을 통해 통계 기능 서비스 제공 경험을 보유하신 분\nWhy NAVER\n스마트플레이스/네이버 예약 기획 포지션은 국내 최대 로컬 사업자 플랫폼으로 다양한 기획 경험을 갖게 됨은 물론 네이버 예약, 네이버 주문 등 이용자 서비스의 기획 경험도 만들어갈 수 있는 점이 무엇보다 가장 큰 장점입니다. 올라운드 기획자로서의 역량을 갖추고 싶은 분, 아직 기회가 무궁무진한 로컬 사업 영역에서 새로운 기회를 찾고 싶은 분들의 지원을 기다립니다.",
+    "job_duties": "Who We Are\n스마트플레이스는 네이버의 대표적인 로컬 사업자 플랫폼으로서 업체정보관리, 네이버 예약, 네이버 주문, 플레이스 쿠폰 등 다양한 사업자 솔루션을 제공하는 플랫폼입니다. 스마트플레이스 플랫폼을 중심으로 플레이스 서비스, 네이버 검색, 지도 서비스 등과의 연계를 통해 로컬 관련 이용자의 주요 니즈를 충족시키고 이용자와 사업자와의 연결을 통해 로컬 사업자의 사업적 성공을 위한 다양한 방안을 끊임없이 고민합니다.\nWhat You'll Do\n· 스마트플레이스 사업자 플랫폼 기획, 운영\n· 네이버 예약, 네이버 주문 등 주요 서비스/솔루션 기획, 운영\n· 사업자향 CRM 솔루션 기획, 운영\n· 사업자향 AI 솔루션 기획, 운영\n· 다양한 외부 파트너와 협력을 통해 사업자향의 새로운 기능, 솔루션 제공\n· 내, 외부 다양한 데이터를 토대로 통계 및 관련 서비스 기획, 운영\nRequired Skill\n· 인터넷 서비스 및 사업자 플랫폼, 예약, 주문 등 로컬 사업자 대상의 서비스 기획 경험을 5년 이상 보유하신 분\n· 로컬 사업 및 서비스에 대한 관심이 높고 향후 해당 분야에 비전을 갖고 계신 분\n· 개발, 설계 등 유관 부서와의 협업이 원활하고 책임감 있게 프로젝트를 진행하실 수 있는 분\nPreferred Skill\n· 사업자 플랫폼, 예약, 주문 플랫폼 기획, 운영 경험을 보유하신 분\n· CRM, 마케팅, 고객 관리 서비스, AI 솔루션 기획, 운영 경험을 보유하신 분\n· 다양한 외부 파트너와의 협업을 통해 새로운 서비스 제공 경험을 보유하신 분\n· 데이터 분석을 통해 통계 기능 서비스 제공 경험을 보유하신 분\nWhy NAVER\n스마트플레이스/네이버 예약 기획 포지션은 국내 최대 로컬 사업자 플랫폼으로 다양한 기획 경험을 갖게 됨은 물론 네이버 예약, 네이버 주문 등 이용자 서비스의 기획 경험도 만들어갈 수 있는 점이 무엇보다 가장 큰 장점입니다. 올라운드 기획자로서의 역량을 갖추고 싶은 분, 아직 기회가 무궁무진한 로컬 사업 영역에서 새로운 기회를 찾고 싶은 분들의 지원을 기다립니다.",
+    "qualifications": "",
+    "preferred_qualifications": "",
+    "application_link": "https://recruit.navercorp.com/rcrt/view.do?annoId=30004601",
+    "crawling_datetime": "2026-02-19T14:11:33.463Z"
+  },
+  {
+    "site": "naver",
+    "job_title": "[NAVER Cloud] NAVER WORKS Platform 기획/운영 (경력)",
+    "team_introduction": "",
+    "job_duties": "",
+    "qualifications": "",
+    "preferred_qualifications": "• SaaS 플랫폼에 대한 기술적 이해도가 높으신 분\n• Developer Relations 업무 경험을 보유하신 분\n• 개발 경력을 보유하신 분\n• AI Agent 기획 및 개발 경험을 보유하신 분\n• MCP 서버 기획 경험을 보유하신 분",
+    "application_link": "https://recruit.navercorp.com/rcrt/view.do?annoId=30004551",
+    "crawling_datetime": "2026-02-19T14:11:53.031Z"
+  },
+  {
+    "site": "naver",
+    "job_title": "[NAVER Cloud] 지도기반 슈퍼앱 서비스 개발 DevOps 엔지니어 (경력)",
+    "team_introduction": "",
+    "job_duties": "",
+    "qualifications": "",
+    "preferred_qualifications": "• Terraform 또는 기타 IaC 프레임워크 활용 경험을 보유하신 분\n• Redis, Kafka, PostgreSQL 등 분산 데이터 시스템에 대한 경험을 보유하신 분\n• Big Data(Hadoop) 및 AI 환경에서의 DevOps 경험을 보유하신 분\n• 기본 이상의 영어 회화 역량을 보유하신 분 또는 글로벌 협업 경험을 보유하신 분",
+    "application_link": "https://recruit.navercorp.com/rcrt/view.do?annoId=30004542",
+    "crawling_datetime": "2026-02-19T14:11:54.863Z"
+  },
+  {
+    "site": "naver",
+    "job_title": "[NAVER Cloud] 글로벌 비즈니스 세일즈 엔지니어 (경력)",
+    "team_introduction": "",
+    "job_duties": "",
+    "qualifications": "• AI·클라우드 기반 SI 구축 또는 서비스 제공 부문에서 기술지원 또는 프리세일즈 업무 경력 7년 이상을 보유하신 분\n• 기술·솔루션 데모, 아키텍처 설명, 기술 워크숍 등 프리세일즈 활동 수행 또는 지원 경험을 보유하신 분\n• 클라우드 및 생성형 AI Value Chain 전반에 대한 기술적 이해를 갖추신 분\n• 원활한 영어 커뮤니케이션, 기술 콘텐츠 작성, 프레젠테이션 활용 능력을 갖추신 분\n• 사우디아라비아 등 해외 국가로 수시 출장이 가능하신 분",
+    "preferred_qualifications": "• 해외 고객 또는 글로벌 파트너와의 공동 제안 및 사업 수행 경험을 보유하신 분\n• 공공, 금융, 대기업 등 규제·보안 요구사항이 높은 사업 지원 경험을 보유하신 분\n• 대규모 클라우드 마이그레이션 프로젝트 수행 경험을 보유하신 분\n• AI 플랫폼, 데이터분석, MLOps 등 AI 서비스/사업 지원 경험을 보유하신 분",
+    "application_link": "https://recruit.navercorp.com/rcrt/view.do?annoId=30004541",
+    "crawling_datetime": "2026-02-19T14:11:58.123Z"
+  },
+  {
+    "site": "naver",
+    "job_title": "[NAVER Cloud] Global Project Manager (경력)",
+    "team_introduction": "",
+    "job_duties": "",
+    "qualifications": "",
+    "preferred_qualifications": "• 중동·아시아 등 해외 현지 근무 경험 또는 해당 지역 문화·비즈니스에 대한 이해를 갖추신 분\n• 대규모 IT 인프라 구축 관련 프로젝트 수행 경험과 글로벌 사업 확대 전략 수립 경험을 보유하신 분\n• 복수 언어 구사 능력을 갖추신 분 (영어 필수, 아랍어·일본어 등 추가 언어 우대)",
+    "application_link": "https://recruit.navercorp.com/rcrt/view.do?annoId=30004538",
+    "crawling_datetime": "2026-02-19T14:12:02.221Z"
+  },
+  {
+    "site": "naver",
+    "job_title": "[NAVER Cloud] LINE WORKS 구매 담당자 (경력)",
+    "team_introduction": "",
+    "job_duties": "",
+    "qualifications": "",
+    "preferred_qualifications": "• 새로운 업무에 도전하여 성과를 만들어낸 경험을 보유하신 분\n• OA Tool 활용 능력 및 문서 작성 역량이 뛰어나신 분\n• PI (Process Innovation) 또는 신규 프로세스 구축·개선 프로젝트 수행 경험이 있으신 분",
+    "application_link": "https://recruit.navercorp.com/rcrt/view.do?annoId=30004536",
+    "crawling_datetime": "2026-02-19T14:12:05.359Z"
+  },
+  {
+    "site": "naver",
+    "job_title": "[NAVER Cloud] Omni-Foundation Model Evaluation Research Engineer (경력)",
+    "team_introduction": "",
+    "job_duties": "",
+    "qualifications": "",
+    "preferred_qualifications": "• 박사 학위 소지자 또는 그에 상응한 경력을 보유하신 분\n• 대규모 평가 업무 경험을 보유하신 분\n• 평가 프레임워크를 직접 개발한 경험을 보유하신 분\n• 벤치마크 논문을 작성하고 게재한 경험을 보유하신 분\n• 오픈소스 기여·커뮤니티 활동·세미나 발표 등 대외 활동 참여에 관심이 있으신 분",
+    "application_link": "https://recruit.navercorp.com/rcrt/view.do?annoId=30004533",
+    "crawling_datetime": "2026-02-19T14:12:07.928Z"
+  },
+  {
+    "site": "naver",
+    "job_title": "[NAVER Cloud] 대규모 GPU기반 MLOps Platform Backend Engineer (경력)",
+    "team_introduction": "",
+    "job_duties": "",
+    "qualifications": "",
+    "preferred_qualifications": "• Spark 등 분산 처리 프레임워크를 활용한 대용량 데이터 파이프라인 설계 및 성능 최적화 경험을 보유하신 분\n• LLM 및 기타 모델 서빙·학습 최적화 및 운영 경험을 보유하신 분\n• k8s Operator 패턴을 활용하여 커스텀 리소스를 정의하고, 이를 제어하는 Controller, Webhook 등의 개발 경험을 보유하신 분\n• 마이크로서비스 아키텍처(MSA)의 배포 자동화 및 클라우드 네이티브 애플리케이션의 패키징·프로비저닝 설계 경험을 보유하신 분\n• 분산 환경에서의 로깅, 트레이싱, 디버깅 경험을 보유하신 분\n• 시스템(SW, 네트워크, OS) 전반에 대한 깊은 이해도를 보유하신 분\n• 오픈소스 프로젝트에 기여하거나, 공통 라이브러리·프레임워크를 직접 개발하여 사내 전파 경험을 보유하신 분",
+    "application_link": "https://recruit.navercorp.com/rcrt/view.do?annoId=30004532",
+    "crawling_datetime": "2026-02-19T14:12:09.993Z"
+  },
+  {
+    "site": "naver",
+    "job_title": "[NAVER Cloud] LLM Studio Backend Engineer (경력)",
+    "team_introduction": "",
+    "job_duties": "",
+    "qualifications": "",
+    "preferred_qualifications": "• JVM 및 Spring 기반 서버 운영 역량을 보유하신 분\n• MSA 환경에서의 서비스 설계 경험을 보유하신 분\n• CI/CD 및 배포 자동화 경험을 보유하신 분\n• 네트워크, 컨테이너, 인프라 전반에 대한 이해도를 갖추신 분\n• LLM 및 LLM 기반 시스템에 대한 기본적인 이해도를 갖추신 분",
+    "application_link": "https://recruit.navercorp.com/rcrt/view.do?annoId=30004531",
+    "crawling_datetime": "2026-02-19T14:12:11.307Z"
+  }
+]
