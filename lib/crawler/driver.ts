@@ -19,10 +19,19 @@ export async function createDriver() {
   options.excludeSwitches('enable-automation');
   options.setLoggingPrefs({ performance: 'ALL' });
 
+
   // 2. Headless 설정 (운영 시에는 주석 해제)
-  /*
-  options.addArguments("--headless=new"); 
-  */
+  const isProd = process.env.NODE_ENV === "prod";
+
+  if (isProd) {
+    options.addArguments("--headless=new");
+    options.addArguments("--no-sandbox");
+    options.addArguments("--disable-dev-shm-usage");
+  }
+
+  console.log("현재 환경:", process.env.NODE_ENV);
+  
+  
 
   // 3. 서비스 빌더 (경로가 고정되어 있다면 유지, 없다면 자동 감지 가능하도록 설정)
   // Python의 ChromeDriverManager().install()과 유사한 효과를 위해 경로 확인 필요
