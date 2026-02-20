@@ -5,7 +5,13 @@ import * as XLSX from "xlsx";
 import { SiteConfig } from "@/lib/config/SiteConfig";
 
 export function readSiteConfig(relativeFilePath: string): SiteConfig[] {
-  const filePath = path.join(process.cwd(), relativeFilePath);
+  // 1️⃣ 앞 슬래시 제거
+  const cleanPath = relativeFilePath.replace(/^\/+/, "");
+
+  // 2️⃣ public 폴더 기준으로 절대경로 생성
+  const filePath = path.resolve(process.cwd(), "public", cleanPath);
+
+  console.log("📂 실제 읽는 경로:", filePath);
 
   if (!fs.existsSync(filePath)) {
     throw new Error(`파일을 찾을 수 없습니다: ${filePath}`);
