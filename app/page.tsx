@@ -27,7 +27,7 @@ export default function HomePage() {
 
         {/* 하단 안내 */}
         <p className="mt-6 text-xs text-gray-400">
-          * 엑셀 설정(data/sites.xlsx)에 따라 수집 데이터가 달라집니다.
+          * 엑셀 설정(load/sites.xlsx)에 따라 수집 데이터가 달라집니다.
         </p>
       </div>
     </div>

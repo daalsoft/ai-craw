@@ -12,7 +12,7 @@ export async function GET() {
   
   try {
     // 1. 엑셀 설정 읽기
-    const configs = readSiteConfig("data/sites.xlsx"); 
+    const configs = readSiteConfig("load/sites.xlsx"); 
     
     // 2. 크롤링 수행 (가장 시간이 많이 걸리는 작업)
     const jobs = await crawlFromExcel(configs);        

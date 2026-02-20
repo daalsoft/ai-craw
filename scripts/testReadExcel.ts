@@ -6,7 +6,13 @@ const XLSX = (XLSXModule as any).default || XLSXModule; // TSX + 스크립트 �
 
 // 2. 엑셀 읽기 함수 정의
 export function readSiteConfig(relativeFilePath: string): SiteConfig[] {
-  const filePath = path.join(process.cwd(), relativeFilePath);
+  // 앞에 붙은 "/" 제거
+  const cleanPath = relativeFilePath.startsWith("/")
+    ? relativeFilePath.slice(1)
+    : relativeFilePath;
+
+  // public 폴더 기준으로 조합
+  const filePath = path.join(process.cwd(), "public", cleanPath);
   console.log("📂 Reading Excel from:", filePath);
 
   if (!fs.existsSync(filePath)) {
@@ -41,7 +47,7 @@ export function readSiteConfig(relativeFilePath: string): SiteConfig[] {
 // ---------------------------------------------------------
 try {
   // 실제 엑셀 파일이 있는 상대 경로를 입력하세요
-  const result = readSiteConfig("data/sites.xlsx");
+  const result = readSiteConfig("load/sites.xlsx");
 
   console.log("\n=========================================");
   console.log("📊 엑셀 데이터 로드 테스트 결과");
