@@ -21,7 +21,7 @@ export async function createDriver() {
 
 
   // 2. Headless 설정 (운영 시에는 주석 해제)
-  const isProd = process.env.NODE_ENV === "prod";
+  const isProd = process.env.NODE_ENV === "production";
 
   if (isProd) {
     options.addArguments("--headless=new");
